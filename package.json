@@ -13,9 +13,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AhmadRezaBarfarazi/useful-hooks.git"
+    "url": "git+https://github.com/AhmadRezaBarfarazi/useful-hooks-react.git"
   },
-  "homepage": "https://github.com/AhmadRezaBarfarazi/useful-hooks#readme",
+  "homepage": "https://github.com/AhmadRezaBarfarazi/useful-hooks-react#readme",
   "peerDependencies": {
     "react": ">=17"
   },
