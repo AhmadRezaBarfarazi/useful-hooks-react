@@ -4,7 +4,7 @@ A collection of **useful React hooks** for everyday development.
 
 ## Installation
 ```bash
-npm install @yourname/useful-hooks
+npm install useful-hooks
 ```
 
 ## Available Hooks
@@ -16,7 +16,7 @@ npm install @yourname/useful-hooks
 
 ## Example
 ```tsx
-import { useDebounce } from "@yourname/useful-hooks";
+import { useDebounce } from "useful-hooks";
 
 function SearchBox() {
   const [value, setValue] = React.useState("");
