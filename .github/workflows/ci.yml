@@ -1,9 +1,10 @@
-name: Build & Publish
+name: CI
 
 on:
   push:
-    tags:
-      - 'v*.*.*'
+    branches: [main]
+  pull_request:
+    branches: [main]
 
 jobs:
   build:
@@ -16,32 +17,9 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 20
-          registry-url: https://registry.npmjs.org/
-          always-auth: true
 
       - name: Install dependencies
         run: npm install
 
       - name: Run tests
         run: npm test
-
-  publish:
-    needs: build
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: read
-      packages: write
-
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 20
-          registry-url: https://registry.npmjs.org/
-          always-auth: true
-
-      - name: Publish package to npm
-        run: npm publish --access public
