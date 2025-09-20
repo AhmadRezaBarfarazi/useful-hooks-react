@@ -1,6 +1,6 @@
 {
   "name": "useful-hooks-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of useful React hooks (debounce, throttle, localStorage, online status, clipboard)",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -9,7 +9,14 @@
     "build": "tsc",
     "test": "jest"
   },
-  "keywords": ["react", "hooks", "utilities", "debounce", "throttle", "localstorage"],
+  "keywords": [
+    "react",
+    "hooks",
+    "utilities",
+    "debounce",
+    "throttle",
+    "localstorage"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
