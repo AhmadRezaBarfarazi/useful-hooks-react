@@ -134,7 +134,7 @@ useful-hooks-react/
 
 ---
 
-## 🧪 Running Tests 
+## 🧪 Running Tests
 
 ```bash
 npm install
