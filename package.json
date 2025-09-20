@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "A collection of useful React hooks (debounce, throttle, localStorage, online status, clipboard)",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmadRezaBarfarazi/useful-hooks.git"
+  },
+  "homepage": "https://github.com/AhmadRezaBarfarazi/useful-hooks#readme",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "scripts": {
