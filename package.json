@@ -1,6 +1,6 @@
 {
   "name": "useful-hooks-react",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A collection of useful React hooks (debounce, throttle, localStorage, online status, clipboard)",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
