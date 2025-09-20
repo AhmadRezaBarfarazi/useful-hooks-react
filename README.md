@@ -4,7 +4,7 @@ A collection of **useful React hooks** for everyday development.
 
 ## Installation
 ```bash
-npm install useful-hooks
+npm install useful-hooks-react
 ```
 
 ## Available Hooks
