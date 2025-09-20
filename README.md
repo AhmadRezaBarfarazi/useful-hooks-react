@@ -154,7 +154,6 @@ npm test
 ## 📈 Badges
 
 [![npm version](https://img.shields.io/npm/v/useful-hooks-react.svg?style=flat-square)](https://www.npmjs.com/package/useful-hooks-react)
-[![npm downloads](https://img.shields.io/npm/dm/useful-hooks-react.svg?style=flat-square)](https://www.npmjs.com/package/useful-hooks-react)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 
