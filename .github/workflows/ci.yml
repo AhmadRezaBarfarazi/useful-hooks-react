@@ -24,9 +24,6 @@ jobs:
       - name: Run tests
         run: npm test
 
-      - name: Run patch
-        run: npm version patch
-
       - name: Run publish public
         run: npm publish --access public
         env:
