@@ -1,6 +1,6 @@
 {
   "name": "@barfarazi/useful-hooks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of useful React hooks (debounce, throttle, localStorage, online status, clipboard)",
   "main": "dist/index.js",
   "repository": {
