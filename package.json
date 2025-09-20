@@ -1,41 +1,30 @@
 {
-  "name": "@barfarazi/useful-hooks",
-  "version": "1.0.1",
+  "name": "useful-hooks-react",
+  "version": "1.0.0",
   "description": "A collection of useful React hooks (debounce, throttle, localStorage, online status, clipboard)",
   "main": "dist/index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AhmadRezaBarfarazi/useful-hooks.git"
-  },
-  "homepage": "https://github.com/AhmadRezaBarfarazi/useful-hooks#readme",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "jest"
   },
+  "keywords": ["react", "hooks", "utilities", "debounce", "throttle", "localstorage"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmadRezaBarfarazi/useful-hooks.git"
+  },
+  "homepage": "https://github.com/AhmadRezaBarfarazi/useful-hooks#readme",
   "peerDependencies": {
     "react": ">=17"
   },
   "devDependencies": {
-    "@testing-library/jest-dom": "^6.1.3",
-    "@testing-library/react": "^16.0.0",
-    "@types/jest": "^29.5.5",
-    "@types/react": "^19.1.13",
+    "typescript": "^5.3.3",
     "jest": "^29.7.0",
+    "@types/jest": "^29.5.5",
     "ts-jest": "^29.2.3",
-    "typescript": "^5.3.3"
-  },
-  "keywords": [
-    "react",
-    "hooks",
-    "utilities",
-    "debounce",
-    "throttle",
-    "localstorage"
-  ],
-  "license": "MIT",
-  "dependencies": {
-    "useful-hooks": "^0.1.0"
+    "@testing-library/react": "^16.0.0",
+    "@testing-library/jest-dom": "^6.1.3"
   }
 }
