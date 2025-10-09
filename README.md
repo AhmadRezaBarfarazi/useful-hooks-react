@@ -170,7 +170,7 @@ MIT
 If you find **useful-hooks-react** helpful and want to support its development, you can send donations via Bitcoin:
 
 **Send directly (Trust Wallet or other wallets that support BTC):**  
-[bitcoin:bc1qyaxus4f2mvgy76r4xuw3skv9mshtxpy8cemqhn]()
+[bitcoin:bc1qyaxus4f2mvgy76r4xuw3skv9mshtxpy8cemqhn](bitcoin:bc1qyaxus4f2mvgy76r4xuw3skv9mshtxpy8cemqhn)
 
 **QR Code (Scan to send):**  
 ![Donate QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=bitcoin:bc1qyaxus4f2mvgy76r4xuw3skv9mshtxpy8cemqhn)
