@@ -164,3 +164,18 @@ npm test
 ## 📝 License
 
 MIT
+
+## 💖 Donate / Support
+
+If you find **useful-hooks-react** helpful and want to support its development, you can send donations via Bitcoin:
+
+**Send directly (Trust Wallet or other wallets that support BTC):**  
+[Click here to donate](bitcoin:bc1qyaxus4f2mvgy76r4xuw3skv9mshtxpy8cemqhn)
+
+**QR Code (Scan to send):**  
+![Donate QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=bitcoin:bc1qyaxus4f2mvgy76r4xuw3skv9mshtxpy8cemqhn)
+
+**Pay me via Trust Wallet:**  
+[Click here to donate](https://link.trustwallet.com/send?coin=0&address=bc1qyaxus4f2mvgy76r4xuw3skv9mshtxpy8cemqhn)
+
+Your donations help cover hosting costs, development time, and further improvements of this package. Every contribution is greatly appreciated!
